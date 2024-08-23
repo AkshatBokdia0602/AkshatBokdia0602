@@ -1,7 +1,5 @@
 # About Me - Data Science and Machine Learning Enthusiast
 
-![Profile Picture](profile_picture.png)
-
 Hello, and welcome to my personal information page! My name is Akshat, and I am passionate about Data Science and Machine Learning. This `readme.md` serves as a brief introduction to who I am and my interests in the field.
 
 ## Table of Contents
@@ -13,7 +11,7 @@ Hello, and welcome to my personal information page! My name is Akshat, and I am 
 
 ## Introduction
 
-I am a third-year undergraduate student with a strong background in Computer Scicence in general and Data Science & Machine Learning in particular. I have always been fascinated by the power of data and how it can be harnessed to gain insights, make predictions, and solve complex problems.
+I am a Final Year undergraduate student with a strong background in Computer Scicence in general and Data Science & Machine Learning in particular. I have always been fascinated by the power of data and how it can be harnessed to gain insights, make predictions, and solve complex problems.
 
 ![Data Science and ML](data_science_ml.png)
 
@@ -33,10 +31,10 @@ My primary interests revolve around:
 
 Here are some of the skills and technologies I have experience with:
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, SQL, C/C++, Java, C#
 - **Data Analysis Tools:** Pandas, NumPy, SciPy
-- **Machine Learning Libraries:** Scikit-Learn, TensorFlow, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning Libraries:** Scikit-Learn, TensorFlow, Keras, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, ggplot2
 - **Database Management:** SQL
 - **Version Control:** Git, GitHub
 
@@ -45,10 +43,10 @@ Here are some of the skills and technologies I have experience with:
 I am always eager to connect with fellow data enthusiasts, researchers, and professionals. You can find me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/akshat-bokdia-68b29a227/)
-- [GitHub](https://github.com/AkshatBokdia0602)
 - [Twitter](https://twitter.com/akshat_bokdia)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=I0g9fTUAAAAJ)
 - [Email](mailto:akshatbokdia1411@gmail.com) 
 
-Feel free to reach out to me if you'd like to discuss data science, machine learning, collaborate on projects, or just have a chat about our shared interests!
+Feel free to reach out to me if you'd like to discuss data science or machine learning, collaborate on projects, or just have a chat about our shared interests!
 
 Thank you for visiting my personal information page, and I look forward to connecting with you!
