@@ -11,7 +11,7 @@ Hello, and welcome to my personal information page! My name is Akshat, and I am 
 
 ## Introduction
 
-I am a Final Year undergraduate student with a strong background in Computer Scicence in general and Data Science & Machine Learning in particular. I have always been fascinated by the power of data and how it can be harnessed to gain insights, make predictions, and solve complex problems.
+I am an incoming MIS CSE student at the University of Pennsylvania with a strong background in Computer Scicence in general and Data Science & Machine Learning in particular. I have always been fascinated by the power of data and how it can be harnessed to gain insights, make predictions, and solve complex problems.
 
 ![Data Science and ML](data_science_ml.png)
 
